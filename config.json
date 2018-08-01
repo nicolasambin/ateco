@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "My tensor",
+      "tensorShape": [
+        471,
+        100
+      ],
+      "tensorPath": "https://raw.githubusercontent.com/nicolasambin/ateco/master/vectors.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/nicolasambin/ateco/master/labels.tsv"
+    }
+  ]
+}
